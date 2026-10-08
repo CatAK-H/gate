@@ -297,9 +297,9 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "saas.sin.fan:443,cdn.204910.best:443,www.mfyx.cn:443,p.etime.vip:443,cdn.ctn32.us.kg:443,cf.877774.xyz:443,spring.io:443,"
-        "cf.nyanya.moe:443,www.sloomb.com:443,op.chinwa.eu.cc:443,www.leics.police.uk:443,securecircle.com:443,www.shopify.com:443,"
-        "www.carousell.sg:443,www.dbs.com.sg:443,openai.com:443,linear.app:443,www.bilibili.com:443,uspto.gov:443,www.vmware.com:443",
+        "cfip.1323123.xyz:443,www.mlkj888.com:443,01-cctv.com:443,www.swowd.com:443,api2-ide.imgnxa.com:443,gitlab.com:443,www.applevis.com:443,"
+        "hzytjy.cn:443,crinacle.com:443,www.dwk.com:443,www.speedtest.net:443,oxylabs.io:443,mail.notion.com:443,"
+        "example.com:443,hentaiverse.org:443,cdnjs.com:443,www.ventusky.com:443,www.hugedomains.com:443,js.org:443,help.kolet.com:443",
     ).split(",")
     if h.strip()
 ]
